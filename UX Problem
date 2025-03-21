@@ -1,0 +1,16 @@
+## Issue: Hidden Advanced Options
+Windows 11 has streamlined many settings but, in doing so, has buried or removed direct access to several advanced features. This creates challenges in:
+
+- **System Configuration**: Advanced settings, such as network configuration and device management, require additional steps to access.
+- **Control Panel vs. Settings**: Many features traditionally found in the Control Panel are now split across multiple menus in the Settings app, leading to confusion.
+- **Keyboard Accessibility**: Navigation through settings is less efficient due to inconsistent keyboard shortcuts and a reliance on mouse interactions.
+- **Customization Limits**: Options like taskbar resizing, right-click context menus, and default app settings are either hidden or require registry tweaks.
+- **Refresh rate settings**: Most PC users have monitors that go beyond the standard 30-60 Hz that is automatically set by windows. The average user may not be able to fully utilize the full power of their monitor as it's not common knowledge to change your refresh rate.
+- **Ambigious right click functions**: The right click options such as copy and paste have been moved to the top of the menu as icons that add more confusion than the plain text that is had always been. Furthermore, the addition of the "more options" feature hides important features, such as file compression, behind another click of the mouse.
+
+## Impact on Accessibility
+By hiding these options, Windows 11 restricts users who rely on accessibility tools:
+
+- Users with **limited dexterity** may struggle with extra navigation steps.
+- Visually impaired users relying on screen readers find it harder to locate settings.
+- Power users accustomed to quick access settings experience frustration due to UI inefficiencies.
